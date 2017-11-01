@@ -1,0 +1,14 @@
+
+  {
+  	"name" : "Gadgets and Sights for Pistol Crossbow",
+    "description" : "This mod adds an ability to attach gadgets and sights on Pistol Crossbow",
+    "author" : "Silent Enforcer"
+	"contact" : "http://steamcommunity.com/profiles/76561198154629676/",
+	"version" : "2.1",
+	"hooks":[  
+    {  
+      "hook_id":"lib/tweak_data/weaponfactorytweakdata",
+      "script_path":"attachments_hunter.lua"
+    }  
+    ]
+}

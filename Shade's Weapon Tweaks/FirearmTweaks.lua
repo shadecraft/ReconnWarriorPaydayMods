@@ -15,6 +15,9 @@ self.judge.AMMO_MAX = 100
 self.judge.AMMO_PICKUP = {.5,1.5}
 self.judge.timers.shotgun_reload_first_shell_offset	= .5
 
+--AA-12
+self.aa12.AMMO_MAX = 250
+
 --SMG's
 
 --P90
@@ -25,7 +28,13 @@ self.coal.AMMO_MAX = 256
 self.coal.timers.reload_empty = 1.0
 self.coal.timers.reload_not_empty = .75
 	
+--Mac 10
+self.mac10.stats.concealment = 30
+	
+	
 --Assault Rifles
+
+
 
 --M14
 self.new_m14.AMMO_MAX = 150
@@ -54,6 +63,16 @@ self.contraband.stats.spread = 27
 self.contraband.can_shoot_through_enemy = true
 self.contraband.can_shoot_through_wall = true
 
+--Sniper Rifles
+
+--1874 Repeater
+self.winchester1874.AMMO_MAX = 90
+
+--SVD
+self.siltstone.AMMO_MAX = 100
+
+--Mosin Nagant
+self.mosin.AMMO_MAX = 75
 
 
 --Specials
@@ -63,6 +82,18 @@ self.saw.CLIP_AMMO_MAX = 250
 self.saw.AMMO_MAX = 1000
 self.saw.AMMO_PICKUP = {.5,1.5}
 
+--Heavy Crossbow
+self.arblast.AMMO_MAX = 50
+self.arblast.armor_piercing_chance = 1
+self.arblast.can_shoot_through_shield = true
+self.arblast.can_shoot_through_enemy = true
+self.arblast.can_shoot_through_wall = true
+
+--Light Crossbow
+self.frankish.AMMO_MAX = 50
+
+--Pistol Crossbow
+self.hunter.AMMO_MAX = 50
 
 --M134
 self.m134.CLIP_AMMO_MAX = 1000
