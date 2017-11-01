@@ -1,0 +1,14 @@
+{
+    "name" : "Shade's Weapon Tweaks",
+    "description" : "Modifies a crap-ton of weapons",
+    "author" : "Shadecraft",
+    "contact" : "",
+    "version" : "1.0",
+
+
+	"hooks": [
+	        { 	"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "weapontweakdata.lua"
+		}
+	]
+}

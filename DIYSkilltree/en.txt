@@ -1,0 +1,50 @@
+{
+
+"menu_DIYST"     : "Your own SKILLTREE"    
+"DIYSK_tree_1"     : "Your own TREE 1"
+"DIYSK_tree_2"     : "Your own TREE 2"
+"DIYSK_tree_3"     : "Your own TREE 2"
+
+"DIYSK_skilltree": "Your own skillTREE"
+
+"DIYST_m_1_1"      : "Tier 1"		
+"DIYST_m_1_2_L"    : "Tier 2 Left" 	
+"DIYST_m_1_2_R"    : "Tier 2 Right" 	
+"DIYST_m_1_3_L"    : "Tier 3 left" 		
+"DIYST_m_1_3_R"    : "Tier 3 Right" 	
+"DIYST_m_1_4"      : "Tier 4"		
+
+"DIYST_m_2_1"      : "Tier 1"		
+"DIYST_m_2_2_L"    : "Tier 2 Left" 	
+"DIYST_m_2_2_R"    : "Tier 2 Right" 	
+"DIYST_m_2_3_L"    : "Tier 3 left" 		
+"DIYST_m_2_3_R"    : "Tier 3 Right" 	
+"DIYST_m_2_4"      : "Tier 4"	
+
+"DIYST_m_3_1"      : "Tier 1"		
+"DIYST_m_3_2_L"    : "Tier 2 Left" 	
+"DIYST_m_3_2_R"    : "Tier 2 Right" 	
+"DIYST_m_3_3_L"    : "Tier 3 left" 		
+"DIYST_m_3_3_R"    : "Tier 3 Right" 	
+"DIYST_m_3_4"      : "Tier 4"	
+
+
+"DIYST_tg_1"     : "BEFORE EDITING REMOVE THE SKILL POINT" 
+"DIYST_tg_2"     : "FROM THE DIY SKILLTREE!!!!!!!!" 
+
+"DIYST_tg_3"     : "Tree 1" 
+"DIYST_tg_4"     : "Tree 2" 
+"DIYST_tg_5"     : "Tree 3" 
+
+"menu_DIYST_desc"     : "Your own SKILLTREE Setting"   
+"DIYST_m_1_1_desc"      : "Tier 1"       
+"DIYST_m_1_2_L_desc"    : "Tier 2 Left"        
+"DIYST_m_1_2_R_desc"    : "Tier 2 Right"       
+"DIYST_m_1_3_L_desc"    : "Tier 3 left"        
+"DIYST_m_1_3_R_desc"    : "Tier 3 Right"       
+"DIYST_m_1_4_desc"      : "Tier 4"       
+
+"DIYST_tg_1_desc"  : "DON'T FORGET TO REMOVE THE SKILL POINT"    
+"DIYST_tg_2_desc"  : "DON'T FORGET TO REMOVE THE SKILL POINT"     
+
+}

@@ -1,0 +1,17 @@
+{
+    "name" : "Kong's Shotgun Ammo Overhaul",
+    "description" : "To improve the versatility and fun of all shotgun ammo types",
+    "author" : "BOSS KONG",
+    "contact" : "To find me on Steam: http://steamcommunity.com/id/bosskong",
+    "version" : "1.0",
+
+"updates" : [
+    {
+        "revision" : 1,
+        "identifier" : "KongShotguns",
+    }
+]
+	"hooks": [
+		{"hook_id" : "lib/tweak_data/weaponfactorytweakdata","script_path" : "KongShotgunAmmo.lua"}
+		]
+}
